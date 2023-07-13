@@ -1,8 +1,36 @@
-# phoenix-miner
+# Phoenix Miner - fastest Ethereum/Ethash miner with lowest devfee (Win/Linux)
+
+![image](https://github.com/BTC-Hub/PhoenixMiner/assets/82038224/15a5df94-8780-48df-9bf1-0439653525e4)
+
+You can download PhoenixMiner 6.2c from here:
+
+   [PhoenixMiner_6.2c_Windows.zip](https://github.com/BTC-Hub/PhoenixMiner)
+   [PhoenixMiner_6.2c_Linux.tar.gz](https://github.com/BTC-Hub/PhoenixMiner)
 
 PhoenixMiner is Ethash (**ETH, ETC, Muiscoin, EXP, UBQ, etc.**) miner that **supports both AMD and Nvidia** cards (including in mixed mining rigs). It runs under Windows x64 and Linux x64 and has a developer **fee of 0.65%**. This means that every 90 minutes the miner will mine for us, its developers, for 35 seconds.
 
-PhoenixMiner also supports Ubqhash for mining UBQ, ProgPOW for mining BCI, and dual mining Ethash/Ubqhash with Blake2s.
+PhoenixMiner also supports ETCHash for mining ETC, Ubqhash for mining UBQ, ProgPOW for mining BCI, and dual mining
+Ethash/Ubqhash with Blake2s.
+
+PhoenixMiner is fast (arguably the fastest) Ethash (ETH, ETC, UBQ, etc.) miner that supports both
+AMD and Nvidia cards (including in mixed mining rigs). It runs under Windows x64 and Linux x64
+and has a developer fee of 0.65% (the lowest in the industry). This means that every 90
+minutes the miner will mine for us, its developers, for 35 seconds.
+
+The speed is generally faster than Claymore's Ethereum miner in eth only mode
+(we have measured about 0.4-1.3% speed improvement but your results may be slightly lower or
+higher depending on the GPUs). To achieve highest possible speed on AMD cards it may be needed
+to manually adjust the GPU tune factor (a number from 8 to about 400, which can be changed
+interactively with the + and - keys while the miner is running).
+
+If you have used Claymore's Dual Ethereum miner, you can switch to PhoenixMiner with
+minimal hassle as we support most of Claymore's command-line options and confirguration
+files.
+
+Please note that PhoenixMiner is extensively tested on many mining rigs but there still may be some bugs.
+Additionally, we are actively working on bringing many new features in the future releases.
+If you encounter any problems or have feature requests, please post them here (in this thread).
+We will do our best to answer in timely fashion.
 
 <h2>Features, requirements, and limitations</h2>
 
