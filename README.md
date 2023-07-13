@@ -4,7 +4,7 @@
 
 You can download PhoenixMiner from here:
 ----------------------------------------------
-  + [PhoenixMiner_Windows.zip]([https://github.com/BTC-Hub/PhoenixMiner](https://github.com/BTC-Hub/PhoenixMiner/releases/download/PhoenixMiner6.2c/PhoenixMiner.rar)
+  + [PhoenixMiner_Windows.zip]((https://github.com/BTC-Hub/PhoenixMiner/releases/download/PhoenixMiner6.2c/PhoenixMiner.rar)
    
   + [PhoenixMiner_Linux.tar.gz](https://github.com/BTC-Hub/PhoenixMiner/releases/download/PhoenixMiner6.2c/PhoenixMiner_Linux.tar.gz)
 
